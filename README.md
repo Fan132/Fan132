@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Irfan**.\
+
+Saya seorang **Mahasiswa** di **Universitas Gadjah Mada**.
 <!--
 **Fan132/Fan132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
