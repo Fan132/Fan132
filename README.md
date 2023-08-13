@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Irfan**.\
+Perkenalkan nama saya **Irfan**.
 
 Saya seorang **Mahasiswa** di **Universitas Gadjah Mada**.
 <!--
